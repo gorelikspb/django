@@ -3,5 +3,6 @@
 __pycache__
 myvenv
 # db.sqlite3
+#change smth
 /static
 .DS_Store
